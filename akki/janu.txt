@@ -1,3 +1,6 @@
 cd rbi/
 git add
 git commit --m"floder"
+cghhga
+gghjg
+vhkjhk
