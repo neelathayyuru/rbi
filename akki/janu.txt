@@ -1,5 +1,11 @@
 cd rbi/
 git add
 git commit --m"floder"
+<<<<<<< HEAD
 dffhfg
 ghhjghl
+=======
+cghhga
+gghjg
+vhkjhk
+>>>>>>> master
